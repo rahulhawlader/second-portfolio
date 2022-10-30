@@ -8,8 +8,8 @@ const BennerOne = () => {
  return (
   <div className='w-100 home id="home" '>
    <div className='container'>
-   <div className='row home '>
-    <div className='col-12 col-md-6 col-lg-6x-1 homeTextPart'>
+   <div className='row home justify-content-between '>
+    <div className='col-12 col-md-6 col-lg-6  homeTextPart'>
     <h3> WELCOME TO MY WORLD !</h3>
      <h1 className='typewriter'>
      <Typewriter

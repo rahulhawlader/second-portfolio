@@ -9,7 +9,7 @@ const Navber = () => {
  const [showIcons, setShowIcons]=useState(false)
  return (
   <>
-  <nav className='main-nav'>
+  <nav className='main-nav fixed-top '>
    <div className='logo-div'>
     <h3>
      <span>R</span>ahul
