@@ -24,21 +24,21 @@ const MyServices = () => {
     <div className='box col-12 col-md-6 col-lg-4 '>
      <h3>Web Designer</h3>
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium deserunt nobis cumque beatae soluta labore eum quas suscipit debitis?</p>
-     <a href="#" ><button className=''>Hire Me</button> </a>
+     <a href="#about" ><button >Hire Me</button> </a>
      <span className='count'>1</span>
 
     </div>
     <div className='box col-12 col-md-6 col-lg-4'>
      <h3>Web Developer</h3>
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium deserunt nobis cumque beatae soluta labore eum quas suscipit debitis?</p>
-     <a href="#" ><button className=''>Hire Me</button> </a>
+     <a href="#about" ><button className=''>Hire Me</button> </a>
      <span className='count'>2</span>
 
     </div>
     <div className='box col-12 col-md-6 col-lg-4 '>
      <h3>Web Responsive Designer</h3>
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium deserunt nobis cumque beatae soluta labore eum quas suscipit debitis?</p>
-     <a href="#" ><button className=''>Hire Me</button> </a>
+     <a href="#about" ><button className=''>Hire Me</button> </a>
      <span className='count'>3</span>
 
     </div>

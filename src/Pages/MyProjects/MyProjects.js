@@ -34,7 +34,7 @@ const MyProjects = () => {
      <div className='contant'>
      <div className='ankor-stylle'>
     <a  href='https://github.com/rahulhawlader/new-doctor-portals' target="_blanck">Client</a>
-    <a href='https://github.com/rahulhawlader/new-doctore-portals-server' target="_blanck">server</a>
+    <a href='https://github.com/rahulhawlader/new-doctore-portals-server' target="blanck">server</a>
     </div>
      <h3>Doctore portal</h3>
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae iure neque animi molestias quibusdam deleniti saepe sapiente blanditiis porro nesciunt?</p>
@@ -58,8 +58,8 @@ const MyProjects = () => {
      <div className='contant'>
 
     <div className='ankor-stylle'>
-    <a  href='https://github.com/rahulhawlader/jerins-parlour' target="_blank">Client</a>
-    <a href='https://github.com/rahulhawlader/zerins-parlour-server' target="_blank">server</a>
+    <a  href='https://github.com/rahulhawlader/jerins-parlour' target="blank">Client</a>
+    <a href='https://github.com/rahulhawlader/zerins-parlour-server' target="blank">server</a>
     </div>
     
     
@@ -67,7 +67,7 @@ const MyProjects = () => {
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae iure neque animi molestias quibusdam deleniti saepe sapiente blanditiis porro nesciunt?</p>
 
 
-     <a href='https://jerin-parlour-40611.web.app/' target='_blank'><button>Demo</button></a>
+     <a href='https://jerin-parlour-40611.web.app/' target='blank'><button>Demo</button></a>
     
      </div>
     </div>
@@ -82,14 +82,14 @@ const MyProjects = () => {
     <div className='contant'>
     <div className='ankor-stylle'>
     <a  href='https://github.com/rahulhawlader/fasion-holesakes-house' target="blank">Client</a>
-    <a href='https://github.com/rahulhawlader/fasion-holesale-server' target='_blank'>server</a>
+    <a href='https://github.com/rahulhawlader/fasion-holesale-server' target='blank'>server</a>
     </div>
     <h3>Fasion House</h3>
      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae iure neque animi molestias quibusdam deleniti saepe sapiente blanditiis porro nesciunt?</p>
 
 
     
-    <a href='https://fasion-holesales-house.web.app/' target="_blank"><button>Demo </button></a>
+    <a href='https://fasion-holesales-house.web.app/' target="blank"><button>Demo </button></a>
 
     </div>
    
