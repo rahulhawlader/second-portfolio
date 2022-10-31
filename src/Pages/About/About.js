@@ -19,14 +19,14 @@ const About = () => {
                     </div>
                     <div className='col-12 col-md-6 col-lg-6 aboutTextPart text-white' data-aos="fade-right">
                         <div>
-                            <h3>
+                            <h2>
                                 Hello I am Rahul
-                            </h3>
-                            <h4>
+                            </h2>
+                            <h5>
                                 I Am passinate and extremely motivated new front-end developer.
                                 i believe i stand out due to my passion for continuous innovation and pushing boundaries to bring forward new ideas. With my skills, identify real-world challenges and develop applications that bring offency and improvment to the live of users also showcase which technicle improvments can make a meaningful impact on the user and the business.
 
-                            </h4>
+                            </h5>
                             <table>
                                 <tbody>
                                     <tr>

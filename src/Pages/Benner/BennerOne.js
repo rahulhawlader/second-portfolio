@@ -29,7 +29,7 @@ const BennerOne = () => {
      <h5>
            I am Front-end Web developer. My Expertise is to create front-end design for a website
        </h5>
-     <a href="https://drive.google.com/file/d/1LOtDWQhpK_Y3E4ua5vxxT32o6oXeGlp1/view?usp=sharing" target="_blank"><Button className='button' >DOWNLOAD CV</Button></a>
+     <a href="https://drive.google.com/file/d/1LOtDWQhpK_Y3E4ua5vxxT32o6oXeGlp1/view?usp=sharing" target="blank"><Button className='button' >DOWNLOAD CV</Button></a>
      <Button className='button-section  button'>HIRE ME</Button>
     </div>
 
