@@ -23,10 +23,11 @@ const Navber = () => {
     <ul>
      <li><a style={{color:'white'}} href="#home">Home</a></li>
      <li><a style={{color:'white'}} href="#about">About Me</a></li>
-     <li><a style={{color:'white'}} href="#projects">Projects</a></li>
+      <li><a style={{color:'white'}} href="#work">Work</a></li>
+      <li><a style={{color:'white'}} href="#skill">Skill</a></li>
+      <li><a style={{color:'white'}} href="#projects">Projects</a></li>
      <li><a style={{color:'white'}} href="#contack">Contack</a></li>
-     <li><a style={{color:'white'}} href="#resume">Resume</a></li>
-     <li><a style={{color:'white'}} href="#blogs">Blogs</a></li>
+    
     </ul>
 
    </div>

@@ -1,0 +1,51 @@
+.card{
+ background-color: black;
+ 
+ display:flex;
+ justify-content: center;
+ align-items: center;
+}
+
+
+
+.stylish{
+margin-top: 100px;
+margin-bottom: 100px;
+}
+
+.stylish h4{
+ color: purple;
+ font-weight: bolder;
+ font-size: 18px;
+}
+
+/* .content{
+ text-align: center;
+} */
+.card h3{
+ color: white;
+ text-align: center;
+ margin-right: 20px;
+ 
+}
+.card p{
+ color: white;
+ 
+}
+
+.img-section{
+ width: 90px;
+ height: 90px;
+ background-color: black;
+ 
+
+
+}
+
+
+.img-section img{
+ width: 70%;
+ height: 70%;
+ 
+}
+

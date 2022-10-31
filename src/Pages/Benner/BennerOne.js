@@ -10,14 +10,14 @@ const BennerOne = () => {
    <div className='container'>
    <div className='row home justify-content-between '>
     <div className='col-12 col-md-6 col-lg-6  homeTextPart'>
-    <h3> WELCOME TO MY WORLD !</h3>
+    <h1> Hi  <span className='text'>I AM  </span> RAHUL!  </h1>
      <h1 className='typewriter'>
      <Typewriter
        options={{
                autoStart: true,
                loop: true,
                delay: 60,
-               strings: ['Hi I AM RAHUL ', 'I AM WEB-DEVELOPER', 'AND WEB DESIGNER', 'RESPONSIVE WEB DESIGNER']
+               strings: ['I AM WEB-DEVELOPER', 'AND WEB DESIGNER', 'AND RESPONSIVE WEB DESIGNER']
 
 
                                     }}
@@ -33,8 +33,8 @@ const BennerOne = () => {
      <Button className='button-section  button'>HIRE ME</Button>
     </div>
 
-    <div className='col-12 col-md-6 col-lg-6 '>
-     <img className='background-color ' src={imgage} alt="My Pictures" />
+    <div className='col-12 col-md-6 col-lg-6 background-color'>
+     <img className=' ' src={imgage} alt="My Pictures" />
     </div>
    </div>
    </div>

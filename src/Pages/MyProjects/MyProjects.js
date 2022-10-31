@@ -20,9 +20,13 @@ const MyProjects = () => {
 
 
  return (
-  <div className='containar'>
+  <div className='containar' id='projects'>
    <h3 className='text-white text-center'>My All Projects</h3>
    <div className='row justify-content-around mat'>
+   
+   
+   
+   
     <div className='project col-12 col-md-6 col-lg-4 my-5'>
      <div className='imbDiv'>
       <img src={doctore} alt="" srcset="" />
@@ -41,6 +45,11 @@ const MyProjects = () => {
      </div>
     </div>
     
+   
+   
+   
+   
+   
     <div className='project col-12 col-md-6 col-lg-4 mt-5'>
     <div className='imbDiv'>
       <img src={Parlour} alt="" srcset="" />
@@ -62,6 +71,9 @@ const MyProjects = () => {
     
      </div>
     </div>
+    
+    
+    
     
     <div className='project col-12 col-md-6 col-lg-4 mt-5'>
     <div className='imbDiv'>

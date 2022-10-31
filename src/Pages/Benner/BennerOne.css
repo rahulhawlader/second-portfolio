@@ -1,12 +1,28 @@
 .background-color{
- width:350px;
- height: 350px;
- border: 10px solid gray;
- border-radius: 50%;
- padding: 5px;
+ 
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ 
+ 
 }
 
+.text{
+    color: green;
+}
 
+.background-color img{
+    /* width: 200px;
+    height: 200px;
+    align-items: center;
+    top: 10px; */
+    width:300px;
+ height: 300px;
+ border: 10px solid white;
+ border-radius: 50%;
+ padding: 5px;
+ background-color: gray;
+}
 
 
 .home {

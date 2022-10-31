@@ -17,7 +17,7 @@ const MyServices = () => {
 
 
  return (
-  <div className='bg-black container'>
+  <div className='bg-black container' id='work'>
    <h1 className='text-white text-center mt-5 padding '>What <span className='text-primary'>I Do</span></h1>
    <div className='row justify-content-around'>
    
